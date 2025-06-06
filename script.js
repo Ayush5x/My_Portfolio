@@ -6,6 +6,9 @@ document.addEventListener('DOMContentLoaded', function() {
         "Prompt Engineer",
         "Graphic Designer"
     ];
+
+
+
     
     let professionIndex = 0;
     let charIndex = 0;
