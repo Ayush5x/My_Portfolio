@@ -98,7 +98,7 @@ body {
     width: 12.5rem;
     border-radius: 1rem;
     background: url(bg.jpg);
-    background-size: cover;
+    background-size:cover;
     position: relative;
     top: 50px;
     transition: all 0.1s;

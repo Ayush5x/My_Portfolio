@@ -48,6 +48,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Start the typing animation
     typeText();
 });
+
 document.addEventListener('DOMContentLoaded', function() {
     const follower = document.querySelector('.cursor-follower');
     let mouseX = 0;
